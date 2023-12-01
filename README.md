@@ -3,6 +3,7 @@
 ## Tech stack 
 - React for the FrontEnd (only hooks, no classes).
 - Backend framework which is suitable for you.
+- Node.js of the LTS version (EOL versions are not allowed)
 - Typscript is a must for both FrontEnd and BackEnd (frameworks, which doesn't support Typescript are not allowed).
 - You are allowed to use fullstack frameworks (like NextJS).
 - Use MongoDB or Postgress for a data storage.
@@ -35,7 +36,7 @@ What will we assess:
 
 
 ## How to complete the task
-- create a new public repo on Github
+- create a new public repo on Github (do **NOT** fork this repository)
 - develop the application according to the requirements
 - send us the link to your repo
 - deploy your application to any service
